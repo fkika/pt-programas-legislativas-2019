@@ -10,9 +10,9 @@ A disponibilização dos programas num formato standard permitirá também que s
 |---|---|---|---|
 | Aliança | [Set. 2019](https://partidoalianca.pt/wp-content/uploads/2019/09/PROGRAMA-FINAL.pdf)   | Luis C. | DONE |
 | Bloco de Esquerda | [Link](https://programa2019.bloco.org/images/programa-com-fotos.pdf)|  Luis C. | DONE |
-| CDS - Partido Popular|[Set. 2019](https://fazsentido.cds.pt/assets/programaeleitoral_legislativascds19.pdf) | João C.| WIP|
+| CDS - Partido Popular|[Set. 2019](https://fazsentido.cds.pt/assets/programaeleitoral_legislativascds19.pdf) | João C. e Fábio C.| WIP|
 | CHEGA  | [Link](https://partidochega.pt/wp-content/uploads/2019/09/PROGRAMA_POL%C3%8DTICO_2019_CHEGA-2.pdf) | Hugo B. | DONE |
-| Iniciativa Liberal | [Set. 2019](https://iniciativaliberal.pt/wp-content/uploads/2019/09/compromisso-eleitoral-iniciativa-liberal.pdf)  | Hugo B. e David N. | WIP |
+| Iniciativa Liberal | [Set. 2019](https://iniciativaliberal.pt/wp-content/uploads/2019/09/compromisso-eleitoral-iniciativa-liberal.pdf)  | Hugo B. | DONE |
 | Juntos pelo Povo | | | |
 | LIVRE | [Link](https://partidolivre.pt/legislativas2019/programa) | Vasco P. | DONE |
 | Movimento Alternativa Socialista |  |  |  |
@@ -32,7 +32,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | Partido Trabalhista Português  |   |    |    |
 | Partido Unido dos Reformados e Pensionistas  |  |  |  |
 | PESSOAS-ANIMAIS-NATUREZA | [Link](https://pan.com.pt/eleicoes/eleicoes-legislativas-2019/programa-eleitoral/) | Tiago S. | DONE  |
-| Reagir Incluir Reciclar |[Set. 2019](https://www.partido-rir.pt/wp-content/uploads/2019/09/Programa-Eleitoral-RIR-2019.pdf) | Fábio C. | WIP |
+| Reagir Incluir Reciclar |[Set. 2019](https://www.partido-rir.pt/wp-content/uploads/2019/09/Programa-Eleitoral-RIR-2019.pdf) | Fábio C. | DONE |
 
 ## Instruções
 
