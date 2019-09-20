@@ -84,7 +84,7 @@ Uma certeza queremos deixar desde já: Com o CHEGA, a extorsão vai acabar. E mu
 
 ## **IV • BASES POLÍTICAS**
 #### **NÃO BASTA AO CHEGA DIZER QUE VAI DEMOLIR A III REPÚBLICA.**
- **PORQUE, DEMOLIDA AQUELA, À QUE CONSTRUIR A IV REPÚBLICA.**
+ **PORQUE, DEMOLIDA AQUELA, HÀ QUE CONSTRUIR A IV REPÚBLICA.**
 
 Sendo muito embora essencial fazê-lo, não basta dizer o que não queremos, o que não  aceitamos,  o  que  liminarmente  recusamos.  Há  que  dizer,  sem  tergiversações,  aquilo que aceitamos e aquilo que queremos para Portugal. Assim, há que apresentar propostas, defender soluções e bater-se por causas que possam, de facto, lançar as bases da IV República.
 
