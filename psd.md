@@ -295,7 +295,6 @@ Para o PSD a base de partida para a reforma do sistema eleitoral para a Assemble
 * Uniformização dos mandatos legislativos e autárquicos com os do Presidente da República e do Parlamento Europeu, passando de 4 para 5 anos;
 * Limitação dos mandatos dos deputados, a exemplo do que acontece nas autarquias e na Presidência da República;
 * Estratégia de reforço da participação do cidadão e de combate à abstenção com possibilidade de valorização dos votos brancos;
-* Valorização da componente da formação política no funcionamento e financiamento dos partidos;
 * Constituição de uma Comissão de Ética, com caráter permanente, constituída por cidadãos de reconhecido mérito e isenção e por antigos deputados que não tenham exercido funções na legislatura anterior, por nomeação do Presidente da Assembleia da República sob proposta da Conferência de Líderes.
 
 Na linha do património político do PSD, continuaremos a defender a redução do número de deputados na Assembleia da República.
@@ -313,8 +312,20 @@ camarário.
 
 * A duração dos mandatos das autarquias locais deve passar a ser de 5 anos, permitindo uma maior estabilidade do exercício da gestão autárquica.
 * O número de mandatos é limitado a três consecutivos quer para os Presidentes de Câmara quer para os Vereadores.
+* Alteração da Lei Autárquica no sentido do reforço da transparência e da qualidade da governação local.
+* Facilitar a governabilidade, permitindo que o Presidente eleito tenha maioria no seu Executivo, reforçando, em paralelo, os poderes de fiscalização da oposição na Assembleia Municipal e no Executivo.
+* Criação da figura da moção de censura ao Executivo na Assembleia Municipal com aprovação por maioria qualificada.
+* Dar mais possibilidades de escolha aos Presidentes de Câmara na formação do Executivo e aquando da substituição de Vereadores.
 
 Revela-se essencial que se repensem as regras de organização e funcionamento das autarquias locais de forma a dotá-las dos necessários mecanismos e instrumentos de gestão adequados às atuais exigências dos cidadãos. O modo como os municípios são geridos não pode ignorar a dimensão da sua área territorial, da sua população, bem como a sua integração em áreas metropolitanas. Os instrumentos de gestão, as competências e o grau de autonomia dos municípios não pode deixar de ser determinado em função das especificidades próprias dos mesmos.
+
+### Partidos Políticos
+
+Sendo os partidos políticos um dos pilares fundamentais do funcionamento das instituições e do sistema político é com especial preocupação que assistimos à degradação do seu funcionamento e ao afastamento dos cidadãos. Por outro lado, sendo organizações que beneficiam maioritariamente de financiamento público, é do mais elementar princípio que possam ser objeto de escrutínio público. Neste sentido, o PSD defende:
+
+* A implementação de regras obrigatórias de rigor e transparência no funcionamento dos partidos políticos.
+* Valorização da componente da formação política no funcionamento e financiamento dos partidos políticos.
+
 
 ### RECUPERAR A CONFIANÇA NO SISTEMA DE JUSTIÇA: O CIDADÃO NO CENTRO DA REFORMA
 
@@ -324,8 +335,16 @@ que configuram a proposta de reforma na diversidade dos domínios considerados m
 ### Democratização, transparência, administração e gestão do Sistema Judicial. Melhorar o funcionamento dos órgãos de governo das Magistraturas.
 
 * Reforço de medidas garantes de transparência e independência dos órgãos judiciários perante o poder político, os interesses económicos, a comunicação social e no seio da própria organização judiciária, com particular atenção ao combate ao crime de violação do segredo de justiça, que tem vindo a ter, com particular gravidade, a violação dos mais elementares direitos humanos, nomeadamente o princípio de presunção de inocência. A afirmação de princípio e a defesa pública da independência da Justiça constituem fatores imprescindíveis para a recuperação da confiança dos cidadãos, para a sua efetividade, dignificação e aceitação do sistema judiciário e da Justiça.
-* Recomposição dos Conselhos Superiores de forma a garantir que a maioria dos seus membros seja composta por não-magistrados. Diversificar as entidades proponentes desses membros de forma a garantir a diversidade dos seus perfis e assegurar que nenhum dos seus membros possa ter exercido qualquer função política em anos imediatamente anteriores.
-* Otimizar a gestão dos Tribunais, através da institucionalização da figura do administrador do Tribunal (um gestor de formação e carreira não Judicial), com responsabilidades funcionais no domínio contabilístico, financeiro, equipamentos, incluindo a informática, instalações e outras matérias conexas.
+* Recomposição dos Conselhos Superiores, visando reforçar a transparência, a democraticidade e a independência, de forma a garantir que a maioria dos seus membros seja composta por não-magistrados.
+* Diversificar as instituições que nomeiam os membros dos Conselhos Superiores, incluindo o Presidente da República.
+* Garantir que as personalidades a nomear sejam de reconhecido prestígio social e cultural, não sendo requisito que provenham de profissões jurídicas.
+* Garantir na composição dos Conselhos Superiores a igualdade de género nos mesmos termos em que a lei o prevê para a composição da Assembleia da República.
+* Reforma do sistema de avaliação dos Magistrados, de modo a conferir-lhe mais rigor e maior transparência.
+* Adoção de regras mais claras que garantam o respeito pelos cidadãos aquando dos depoimentos em Tribunal e órgãos judiciais, particularmente no cumprimento de agendamentos e horários, permitindo ainda o direito a apresentação de queixa relativamente ao funcionamento e comportamento dos funcionários e magistrados para com os cidadãos.
+* Criação do Provedor do Utente Judiciário que deverá fazer chegar ao CSM ou ao CSMP, no caso de Magistrados, e ao Presidente da Comarca no caso de funcionários, as queixas recebidas para fins disciplinares ou outros.
+* O Provedor não poderá ser Magistrado e deverá ser nomeado pelo Presidente da República.
+* Valorização das competências do administrador judiciário, com responsabilidades funcionais no domínio contabilístico, financeiro, gestão de equipamentos, nomeadamente informáticos, de forma a recentrar a função do Juiz nas vertentes cardinais da Justiça, dispensando-o de toda e qualquer função de natureza administrativa.
+* Aperfeiçoamento e intensificação do apoio técnico de assessoria especializada aos Magistrados.
 * Descentralizar funções de gestão e reforçar as competências dos conselhos de gestão de comarca.
 * Introduzir métodos de gestão que garantam a alocação correta dos recursos, a eliminação das ineficiências de produtividade do sistema e promovam a qualidade.
 * Inventariação de todas as instalações/todos os imóveis afetos ao Sistema Judicial, identificando as instalações e o respetivo estado, incluindo a inventariação de todas as instalações e edifícios arrendados pelo Ministério da Justiça, com a contabilização especifica e integral de custos mensais e de custos anuais para o Orçamento do Estado.
@@ -1083,7 +1102,7 @@ A cultura e as políticas culturais não são meras manifestações de voluntari
 
 #### A paisagem
 
-A paisagem natural e humanizada são a expressão material de base da nossa cultura. O Douro Vinhateiro ou a Cultura da Vinha na Ilha do Pico, as salinas dos estuários, os lameiros e latadas do Minho, as arribas e sistemas dunares da costa marítima, os soutos de Trás-os-Montes, os carvalhais da Beira, os montados do Alentejo ou a Floresta Laurissilva da Madeira, são um património paisagístico e cultural que terá de ser preservado, não só em função de uma preocupação ambiental, mas também porque representam o esforço secular de afeiçoar o território e a natureza às atividades humanas vitais.
+A paisagem natural e humanizada são a expressão material de base da nossa cultura. O Alto Douro Vinhateiro ou a Paisagem da Cultura da Vinha na Ilha do Pico, as salinas dos estuários, os lameiros e latadas do Minho, as arribas e sistemas dunares da costa marítima, os soutos de Trás-os-Montes, os carvalhais da Beira, os montados do Alentejo ou a Floresta Laurissilva da Madeira, são um património paisagístico e cultural que terá de ser preservado, não só em função de uma preocupação ambiental, mas também porque representam o esforço secular de afeiçoar o território e a natureza às atividades humanas vitais.
 
 O facto de estarem consolidadas as redes de parques naturais e reservas ecológicas não poderá dispensar o interesse em classificar novos elementos patrimoniais e paisagísticos que contribuam para a valorização do território.
 
@@ -1142,7 +1161,7 @@ Com a mesma preocupação, a temática das Artes Decorativas deverá merecer uma
 
 ### PROMOVER A CREAÇÃO CULTURAL
 
-O traço mais marcante das últimas décadas da creação cultural é a sua diversificação  e  a dimensão económica que a transforma num relevante e crescente contributo para a riqueza das nações.
+O traço mais marcante das últimas décadas da creação cultural é a sua diversificação  e  a dimensão económica que a transforma num relevante e crescente contributo para a riqueza das nações e para o bem-estar e desenvolvimento humano.
 
 A diversificação das expressões culturais manifesta-se na emergência de novas áreas e de novas conceções estéticas para as quais é necessário sensibilizar a diversidade dos públicos. Falamos desde a arte digital, à arquitetura, da música produzida através de aplicações informáticas ao design e à moda.
 
@@ -1157,7 +1176,7 @@ O aumento da procura turística tem valorizado os produtos e a gastronomia portu
 * Mobilizando fundos estruturais para a qualificação das ofertas culturais, especialmente  as  que  se  integram  em roteiros culturais inovadores, de âmbito intermunicipal e que combinem tradição e (re)creação em produtos de elevada qualidade e distinção.
 * Promover uma efetiva política de descentralização, prioritariamente para os níveis municipal e intermunicipal, nos vários domínios da creação cultural, valorizando o papel das autarquias em parcerias múltiplas com agentes e criadores culturais, universidades, escolas, associações, fundações e empresas, bem como outros movimentos organizados de cidadãos.
 * Incentivar e apoiar o associativismo cultural de base local.
-* Reformar o atual sistema de apoios às artes, tornando-o mais descentralizado e mais transparente na afetação de dinheiros públicos.
+* Reformar o atual sistema de apoios às artes, incluindo os apoios à produção de cinema e audiovisual, tornando-o mais descentralizado e mais transparente na afetação de dinheiros públicos.
 * Criar um novo quadro de incentivos ao mecenato cultural que o torne mais atrativo e mais generalizado.
 * Promover planos conjuntos, entre poder central e poder local, de apoio a projetos culturais de reconhecido mérito, e potenciadores de uma efetiva descentralização em todas as áreas de fruição cultural.
 * Criar um novo Estatuto dos Profissionais das Artes, da Cultura e dos Espetáculos, que corresponda à dignificação das suas profissões, bem como à garantia de acesso ao emprego e à segurança das suas carreiras profissionais.
@@ -1172,7 +1191,7 @@ O PSD dará especial atenção a este desafio das indústrias culturais, mas ess
 
 O segundo desafio da comunicação cultural tem a ver com a formação de novos públicos, especialmente com as novas gerações de crianças e jovens através do sistema educativo. Para além da dimensão cultural do conhecimento escolar, importa valorizar as expressões artísticas logo a partir dos primeiros anos de escolaridade obrigatória. O que pretendemos é desenvolver uma educação estética, transversal ao curriculum escolar, mobilizadora das diferentes formas de conhecimento e potenciadora das maneiras de pensar os problemas e as obras culturais. Neste sentido, propomos ainda:
 
-* A criação da figura do Programador Cultural em cada um dos agrupamentos de escolas públicas, função a ser desempenhada por um professor especialmente formado para o efeito.
+* A criação da figura do Programador Cultural em cada um dos agrupamentos de escolas públicas, função a ser desempenhada por um professor especialmente formado para o efeito, e, sempre que possível, em colaboração com creadores culturais.
 * Elaboração de um conjunto alargado de guiões pedagógicos que transformem as visitas de estudo em processos de aprendizagem interdisciplinar que se iniciam na escolha do sítio e terminam na elaboração de um pequeno relatório da visita, passando pela constituição dos dossiers da sua preparação.
 
 ### DEMOCRATIZAR A FRUIÇÃO
@@ -1296,6 +1315,35 @@ Promover a mobilidade docente entre agrupamentos do mesmo concelho (para os conc
 
 Maior  rigor  na  aplicação  do  direito  de mobilidade  por  doença,  nomeadamente  pela identificação de alternativas de colocação em função da distância em relação ao domicílio fiscal.
 
+### DESPORTO, INVESTIR NA FORMAÇÃO
+
+Não fora o desenvolvimento desportivo promovido pelos clubes e associações desportivas e o panorama da prática desportiva e da atividade física em Portugal seria lamentável. De acordo com os dados apurados pelo Eurobarómetro (número especial 472, de março de 2018) Portugal está entre os três países europeus com os piores indicadores de prática desportiva e exercício físico regulares.
+
+Este facto revela bem o quanto se desvaloriza o desporto como componente decisiva de uma vida saudável, não obstante a hipervalorização do desporto de competição. Só que este dificilmente se torna sustentável se não conseguirmos massificar a prática regular. Entendemos o desporto como uma prática individual que assume uma dimensão social que terá de estar ao serviço do desenvolvimento humano, cujos valores – tolerância, esforço e superação, disciplina, ética social, universalismo – contribuam para tornar as pessoas mais capazes, mais cultas e mais abertas ao mundo.
+
+#### Desporto na Escola
+
+A escola tem de tornar-se o mais importante centro de formação desportiva, a começar logo na educação de infância e nos primeiros anos do ensino obrigatório. Esta será a principal via de massificação da prática desportiva em Portugal e a mais decisiva para alterar hábitos e promover estilos de vida mais saudáveis.
+
+Educação física, desporto escolar e desporto federado não podem continuar de costas voltadas. É urgente construir uma plataforma de cooperação entre aqueles três pilares que generalize a prática desportiva desde a infância e com especial incidência nos 12 anos de escolaridade obrigatória.
+
+Neste sentido o PSD propõe:
+
+* Elaborar um Plano de Formação e Desenvolvimento Desportivo que articule os contributos da Educação Física, do Desporto Escolar e do Desporto Federado visando a universalização da prática desportiva nas escolas portuguesas.
+* Envolver as autarquias locais na conceção e concretização desse plano, especialmente na adequada gestão das infraestruturas e no apoio às iniciativas envolvendo escolas e associações desportivas.
+* Garantir a atividade física regular aos alunos do 1º ciclo de escolaridade.
+* Aumentar a participação dos alunos em atividades do Desporto Escolar, generalizando a organização de competições desportivas intra e interescolas.
+* Mobilização de créditos horários para os professores responsáveis pelo Desporto Escolar.
+
+#### Desporto Federado
+
+O atual quadro de apoios ao desporto de competição poderia ser melhor potenciado caso o Estado cumprisse com os acordos e responsabilidades financeiras que assumiu. Para o PSD, excetuando os apoios ao desporto de alta competição, nomeadamente à preparação olímpica e paralímpica, a prioridade das políticas públicas deve ser direcionada para o apoio à formação quer de atletas, técnicos e dirigentes desportivos, quer, em colaboração com as autarquias, às infraestruturas e sua adequada gestão.
+
+Neste sentido, o PSD defende:
+
+* Que importa repensar o modelo de financiamento do setor, perspetivando a celebração de contratos plurianuais com as organizações desportivas, com mecanismos de controlo e monitorização e metas a atingir.
+* A necessidade de elaborar um Plano Estratégico para o Desenvolvimento do Desporto Português, que reúna os contributos de todos os parceiros sociais diretamente associados ao fenómeno desportivo, bem como o compromisso de todas as forças políticas.
+
 ### GENERALIZAR O ACESSO ÀS FORMAÇÕES SUPERIORES
 
 O Acesso ao Ensino Superior deve promover a equidade e a igualdade de oportunidades. O desafio de alargar a participação da população no ensino superior, tornando-a mais inclusiva e mantendo ou mesmo reforçando a sua qualidade, exige uma aposta na diversidade da oferta formativa, a par da sua equilibrada distribuição geográfica. Esta oferta deverá ser apelativa e assegurar a flexibilidade dos percursos educativos através de um sistema transparente de pontes de comunicação entre estes percursos. O Acesso a um Ensino Superior de qualidade é um dos principais motores da mobilidade social, conceito que faz parte da matriz Social Democrata.
@@ -1304,7 +1352,7 @@ Neste contexto, defendemos uma Reforma do Acesso ao Ensino Superior na qual sein
 
 * Alargar e diversificar a base de captação de candidatos, oriundos das diversas vias de conclusão do ensino secundário para as ofertas do ensino superior, por via da flexibilização das vias de acesso;
 * Criar pontes para apoiar a transição entre os diversos percursos verticais existentes, conferindo maior solidez e flexibilidade ao nosso sistema de educação superior, as quais podem e devem ser diversas. Pretende-se incentivar as instituições a criar complementos de formação identificados como necessários e assim reforçar a responsabilidade das instituições pelo sucesso educativo dos seus estudantes sem prejudicar a ambição académica dos cursos. Estes complementos de formação poderão ter o formato de tipo “ano zero” ou de módulos (formais ou informais) ou curso (até 60 créditos) desenhados pela instituição de ensino superior para reforçar a formação do candidato à admissão 1º, 2º ou 3º ciclo de estudos quando o percurso anterior do candidato não ofereça garantias razoáveis de sucesso;
-* Aumentar a atratividade das instituições de ensino superior para os alunos internacionais. Criar condições de acesso às instituições de ensino superior portuguesas para estudantes estrangeiros, em especial os oriundos dos Países de Língua Oficial Portuguesa (promovendo acordos Estado a Estado, intensificando os já existentes e fomentando acordos e protocolos entre Instituições). Deve ser criado o ambiente regulamentar e logístico facilitador à vinda para Portugal destes estudantes, nomeadamente através da abolição da limitação dos 20% como percentagem máxima de alunos internacionais;
+* Aumentar a atratividade das instituições de ensino superior para os alunos internacionais. Criar condições de acesso às instituições de ensino superior portuguesas para estudantes estrangeiros, em especial os oriundos dos Países de Língua Oficial Portuguesa (promovendo acordos Estado a Estado, intensificando os já existentes e fomentando acordos e protocolos entre Instituições). Deve ser criado o ambiente regulamentar e logístico facilitador à vinda para Portugal destes estudantes, nomeadamente através da abolição da limitação dos 30% como percentagem máxima de alunos internacionais;
 * Aumentar e melhorar duplamente a cobertura nacional do ensino superior, por via da abrangência social e da extensão territorial, numa representação de todos os grupos sociais e numa presença em todo o território de uma oferta especializada e qualificada assente no princípio da complementaridade entre cursos e instituições;
 * Incentivar e responsabilizar as instituições de ensino superior pelo sucesso dos seus estudantes e pelo recrutamento em grupos sub-representados;
 * Ajustar a fórmula de financiamento das Instituições de Ensino Superior com um reforço em função do número de estudantes oriundos de grupos sub-representados nas Instituições;
@@ -1861,8 +1909,8 @@ O sistema ferroviário pesado e ligeiro assegura o modo atualmente mais sustent�
 Para o PSD, no âmbito da ferrovia, considera urgente a definição de um Plano Estratégico de longo prazo que consagre as seguintes prioridades:
 
 * Manutenção das Infraestruturas existentes (segurança e atualização), com especial prioridade para as redes das áreas metropolitanas, quer para o transporte de passageiros, quer para o acesso aos portos no transporte de mercadorias.
-* Com vista a evitar o isolamento da economia portuguesa e a aumentar a mobilidade interna considerar um plano de migração da atual rede para bitola europeia, articulando com a política ferroviária espanhola.
-* Estudar e planear uma nova ligação nacional Sul-Norte em Alta Velocidade,  com as respectivas ligações à fronteira e à Europa, num modelo de equilíbrio territorial e financeiro, e com ligação aos principais terminais logísticos nacionais e internacionais (incluindo portos e aeroportos).
+* Com vista a evitar o isolamento da economia portuguesa e a aumentar a mobilidade interna considerar um plano de migração da rede para bitola europeia, articulando com a política ferroviária espanhola.
+* Estudar, planear e projetar uma nova ligação nacional Sul-Norte em Alta Velocidade, em bitola europeia, com as respectivas ligações à fronteira e à Europa, preparadas para tráfego de passageiros e mercadorias, , num modelo de equilíbrio territorial e financeiro, e com ligação aos principais terminais logísticos nacionais e internacionais (incluindo portos e aeroportos).
 * Interligar com as Infraestruturas portuárias e aeroportuárias.
 * Integrar com os sistemas de transportes urbanos não ferroviários de média ou baixa capacidade, numa abordagem multimodal e interoperável, por exemplo BUS, BRT, partilha e aluguer de veículos, táxi e TVDE.
 * Potenciar a capacidade de utilizar e exportar produtos, serviços e conhecimento disponíveis nas entidades da Plataforma Ferroviária Portuguesa.
@@ -1877,7 +1925,7 @@ Garantidas as condições para aumentar a capacidade de resposta ao aumento do t
 
 O caso do Novo Aeroporto de Lisboa (NAL) é paradigmático da falta de visão e de capacidade de planeamento do atual governo. O acordo celebrado entre o Governo e o concessionário garantiu o aumento da capacidade do atual Aeroporto Humberto Delgado e elegeu a Base Aérea do Montijo para a instalação de um aeroporto civil. Sem se conhecer os estudos de impacto ambiental, abandonou-se o cenário do Campo de Tiro de Alcochete, e reconheceu-se injustificadamente que a solução acordada seria suficiente para suprir as necessidades até ao fim da concessão (2062). Ao contrário do que é normal, adotaram-se estimativas de tráfego de passageiros surpreendentemente modestas.
 
-A posição do PSD relativamente a este problema é a de que é prematuro afastar cenários e de que as opções a fazer não dispensam um estudo aprofundado das diferentes soluções. É previsível que venham a ser apontados problemas ambientais à solução do Montijo e que face à possível inconclusividade do estudo se recorra à decisão política sem qualquer sustentação técnica aceitável. Neste sentido, o PSD entende que é razoável a reapreciação da solução Alcochete, mesmo que tal obrigue a uma renegociação das condições contratuais da concessão.
+A posição do PSD relativamente a este problema é a de que é prematuro afastar cenários e de que as opções a fazer não dispensam um estudo aprofundado das diferentes soluções. É previsível que venham a ser apontados problemas ambientais à solução do Montijo e que face à possível inconclusividade do estudo se recorra à decisão política sem qualquer sustentação técnica aceitável. Neste sentido, o PSD entende que poderá ser avisado a reapreciação da solução Alcochete, mesmo que tal obrigue a uma renegociação das condições contratuais da concessão.
 
 #### Terminais portuários
 
