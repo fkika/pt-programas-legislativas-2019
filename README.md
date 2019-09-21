@@ -27,7 +27,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | Partido Nacional Renovador | [Link](http://www.pnr.pt/wp-content/uploads/2019/09/Programa-eleitoral-Legislativas-2019.pdf) | Vasco P.  | DONE |
 | ~~Partido Operário de Unidade Socialista~~ |  NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL |  | |
 | Partido Popular Monárquico | |  | |
-| Partido Social Democrata | [Link](https://app.box.com/s/x8mh7ycebkpityah14hj6awgue3v0e9j) | Nuno C. e Vasco P. | DONE |
+| Partido Social Democrata | [Link](https://www.psd.pt/wp-content/uploads/2019/09/programa-eleitoral_web.pdf) | Nuno C. e Vasco P. | DONE |
 | Partido Socialista | [Link](https://www.ps.pt/programa-eleitoral-ps-legislativas2019.pdf) | Tiago S.    | DONE|
 | Partido Trabalhista Português  |   |    |    |
 | Partido Unido dos Reformados e Pensionistas  |  |  |  |
