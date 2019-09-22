@@ -21,7 +21,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | Partido Comunista dos Trabalhadores Portugueses |  |  |  |
 | Partido Comunista Português | [Set. 2019](https://www.cdu.pt/2019/pdf/programa_eleitoral_pcp.pdf) | Diogo C.|  WIP|
 | Partido da Terra  | |  |  |
-| Partido Democrático Republicano |  |  |  |
+| Partido Democrático Republicano | [Set. 2019](https://campanha-pdr.pt/programa-eleitoral/programa-completo/) |  | TO-DO |
 | Partido Ecologista "Os Verdes" | [Link](http://www.osverdes.pt/media/Legislativas_2019/12_compromissos_Legislativas2019_PEV.pdf)| Tiago S. | DONE   |
 | ~~Partido Liberal Democrata~~  | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL |  | |
 | Partido Nacional Renovador | [Link](http://www.pnr.pt/wp-content/uploads/2019/09/Programa-eleitoral-Legislativas-2019.pdf) | Vasco P.  | DONE |
