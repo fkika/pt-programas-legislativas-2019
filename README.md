@@ -19,7 +19,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | Nós, Cidadãos! | [Set. 2019](https://noscidadaos.pt/programa-eleitoral-nc-legislativas-2019/) | Joana F. | DONE |
 | ~~Partido Cidadania e Democracia Cristã~~ | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL  |  |  |
 | Partido Comunista dos Trabalhadores Portugueses |  |  |  |
-| Partido Comunista Português | [Set. 2019](https://www.cdu.pt/2019/pdf/programa_eleitoral_pcp.pdf) | Diogo C.|  WIP|
+| Partido Comunista Português | [Set. 2019](https://www.cdu.pt/2019/pdf/programa_eleitoral_pcp.pdf) | Diogo C.| DONE |
 | Partido da Terra  | |  |  |
 | Partido Democrático Republicano | [Set. 2019](https://campanha-pdr.pt/programa-eleitoral/programa-completo/) |  | TO-DO |
 | Partido Ecologista "Os Verdes" | [Link](http://www.osverdes.pt/media/Legislativas_2019/12_compromissos_Legislativas2019_PEV.pdf)| Tiago S. | DONE   |
