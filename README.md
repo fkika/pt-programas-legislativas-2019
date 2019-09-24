@@ -15,7 +15,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | Iniciativa Liberal | [Set. 2019](https://iniciativaliberal.pt/wp-content/uploads/2019/09/compromisso-eleitoral-iniciativa-liberal.pdf)  | Hugo B. | FEITO |
 | Juntos pelo Povo | | | |
 | LIVRE | [Link](https://partidolivre.pt/legislativas2019/programa) | Vasco P. | FEITO |
-| Movimento Alternativa Socialista | [Set. 2019](http://mas.org.pt/index.php/folha/1823-panfleto-mas-legislativas-2019.html) |  |  |
+| Movimento Alternativa Socialista | [Set. 2019](http://mas.org.pt/index.php/folha/1823-panfleto-mas-legislativas-2019.html) | Sofia C.  | FEITO |
 | Nós, Cidadãos! | [Set. 2019](https://noscidadaos.pt/programa-eleitoral-nc-legislativas-2019/) | Joana F. | FEITO |
 | ~~Partido Cidadania e Democracia Cristã~~ | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL  |  |  |
 | Partido Comunista dos Trabalhadores Portugueses |  |  |  |
