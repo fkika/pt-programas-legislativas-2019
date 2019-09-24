@@ -10,7 +10,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 |---|---|---|---|
 | Aliança | [Set. 2019](https://partidoalianca.pt/wp-content/uploads/2019/09/PROGRAMA-FINAL.pdf)   | Luis C. | FEITO |
 | Bloco de Esquerda | [Link](https://programa2019.bloco.org/images/programa-com-fotos.pdf)|  Luis C. | FEITO |
-| CDS - Partido Popular|[Set. 2019](https://fazsentido.cds.pt/assets/programaeleitoral_legislativascds19.pdf) | João C. e Fábio C.| NÃO TERMINADO |
+| CDS - Partido Popular|[Set. 2019](https://fazsentido.cds.pt/assets/programaeleitoral_legislativascds19.pdf) | João C. e Fábio C.| FEITO |
 | CHEGA  | [Link](https://partidochega.pt/wp-content/uploads/2019/09/PROGRAMA_POL%C3%8DTICO_2019_CHEGA-2.pdf) | Hugo B. | FEITO |
 | Iniciativa Liberal | [Set. 2019](https://iniciativaliberal.pt/wp-content/uploads/2019/09/compromisso-eleitoral-iniciativa-liberal.pdf)  | Hugo B. | FEITO |
 | Juntos pelo Povo | | | |
