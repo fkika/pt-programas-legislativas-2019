@@ -13,7 +13,7 @@ Três pontos essenciais enquadram a orientação para todos os objectivos concre
 
 3. O apoio à vitalidade biológica e familiar para fazer da Natalidade e da Juventude factores de confiança no futuro! Há que tornar a formação cultural e profissional das novas gerações mais intensa, preservando os portugueses mais qualificados da necessidade de sair da Pátria para se realizarem na vida!
 
-### B. | A SITUAÇÃO DEPLORÁVEL QUE URGE SUPERAR |
+# B. | A SITUAÇÃO DEPLORÁVEL QUE URGE SUPERAR |
 
 O Estado presente é uma verdadeira trituradora de impostos, coerciva e totalitária, que exige cada vez mais e oferece cada vez menos, e, enquanto isso, transfere a nossa soberania e entrega ao desbarato os sectores vitais para o nosso desenvolvimento, hipotecando assim o nosso futuro.
 
@@ -23,7 +23,7 @@ O interior do país foi votado ao abandono devido a políticas economicistas cri
 
 A Justiça, desvirtuada da sua nobre função e prostituída às mãos de criminosos, de corruptos e de toda asorte de tratantes impunes, só serve os interesses dos poderosos. A pequena criminalidade e a criminalidade violenta alastram pelo país inteiro, com grande impunidade. Aumentam os problemas sociais. Os subsídios e rendimentos são usados como esmola, com vista a manter boa parte da população calada e 'fiel' aos políticos. Tudo isto implica um gigantesco custo social e económico, a suportar pelos portugueses que trabalham. A pobreza alastra numa sociedade onde três em cada cinco crianças estão sujeitas a privações e carências, inclusive de ordem básica. O mesmo cenário junto dos idosos, onde a escolha, em muitos casos, é entre alimentação ou a medicação.
 
-### C. | O LEGADO DO ÚLTIMO GOVERNO |
+# C. | O LEGADO DO ÚLTIMO GOVERNO |
 
 Ao fim de quatro anos de Governo PS/BE/PCP, a dívida pública representa 121,5% do PIB! Ou seja, são necessários dois PIB, no mínimo, para que a dívida de Portugal seja coberta por aquilo que produz! A carga fiscal – entenda-se, as receitas através dos impostos – tem subido exponencialmente desde 2015, representando, por si só, 35,4% do PIB.
 
@@ -31,7 +31,7 @@ Apesar das conhecidas “cativações” - isto é, da fraude ao Orçamento Gera
 
 A excessiva austeridade – embora já não nos encontramos oficialmente em regime de austeridade – perceptível pela população, não é apenas imoral, como contraproducente, provocando mais prejuízo financeiro do que benefício social: a dívida aumenta, a qualidade de vida diminui.
 
-### D. | A SOLUÇÃO DA DIREITA NACIONAL |
+# D. | A SOLUÇÃO DA DIREITA NACIONAL |
 
 Portugal precisa de uma mudança verdadeira, e as soluções não passam pela alternância entre quem nos colocou neste estado de coisas. Só há uma solução e passa por uma mudança radical de rumo e de mentalidade: recuperar o Orgulho Nacional, a Soberania e a Identidade, a par de uma intervenção enérgica contra a injustiça social, a corrupção, as mordomias da “classe política” e dos beneficiários do sistema, além do investimento na produção nacional, liberto da servidão externa e dos interesses sectários.
 
@@ -43,7 +43,7 @@ Um Estado nacional e social, eficaz, mas sem peso inútil ou atrofiador. Não de
 
 Queremos ser uma Nação aberta ao mundo, mas soberana, onde quem manda somos nós. E queremos sentir em português e pensar em português o que só em português pode e deve ser sentido e pensado.
 
-### E. | O NOSSO PROGRAMA: AS NOSSAS PRIORIDADES E PROPOSTAS |
+# E. | O NOSSO PROGRAMA: AS NOSSAS PRIORIDADES E PROPOSTAS |
 
 O Programa de Governo do PNR visa a reactivação da dinâmica e dos fluxos económicos mediante intervenções prioritárias no Emprego, na Natalidade e na Produtividade. E tem por base a salvaguarda dos direitos fundamentais dos Portugueses.
 
@@ -103,7 +103,7 @@ Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 * 2.1. Garantir a isenção do pagamento da taxa de Segurança Social às empresas que contratem trabalhadores temporários durante a licença de maternidade de um progenitor pertencente aos quadros dessas mesmas empresas;
 * 2.2. Tornar obrigatório que os pagamentos dos serviços básicos que funcionam por escalões (como a água) sejam calculados em função do agregado familiar;
 * 2.3. Isentar do imposto automóvel a compra de veículos de sete lugares ou mais para famílias com mais de três filhos;
-* 2.4. Atribuir um subsídio de educação igual ao IAS para cada progenitor que optar por ficar em casa a educar os filhos; 
+* 2.4. Atribuir um subsídio de educação igual ao IAS para cada progenitor que optar por ficar em casa a educar os filhos;
 * 2.5. Implementação do Rendimento de apoio à natalidade com vista a combater o inverno demográfico;
 * 2.6. Implementar um programa nacional de incentivo à natalidade, com a criação de uma rede nacional de creches e infantários com mensalidades adequadas a cada família;
 * 2.7. Apoiar as empresas que se proponham a criar creches na sua área de laboração;
@@ -112,7 +112,7 @@ Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 * 2.10. Revogar a actual lei da Interrupção Voluntária da Gravidez (IVG), que banaliza uma situação que apenas deveria ser permitida em casos muito excepcionais, bem como a abolição de qualquer tipo de subsídio para abortar;
 * 2.11. Revogar a lei de casamento entre pessoas do mesmo sexo;
 * 2.12. Cortar todas as verbas e apoios a associações LGBT;
-* 2.13. Criar políticas de apoio aos idosos, com a criação de uma rede de lares e de serviços paliativos com mensalidades adequadas, bem como através de apoios para as famílias que optem por cuidar dos idosos; 
+* 2.13. Criar políticas de apoio aos idosos, com a criação de uma rede de lares e de serviços paliativos com mensalidades adequadas, bem como através de apoios para as famílias que optem por cuidar dos idosos;
 * 2.14. Impedir a legalização da eutanásia;
 * 2.15. Estabelecer uma reforma máxima de 2.500 € e conversão do eventual excesso em Certificados de Aforro, liquidáveis de 3 em 3 anos. O objectivo é poder atribuir uma reforma mínima de 600 euros;
 * 2.16. Isentar de IRS o dinheiro aplicado em PPR, desde que permaneça até à reforma;
@@ -123,7 +123,7 @@ Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 * 2.21. Valorização e reconhecimento do trabalho de voluntariado;
 * 2.22. Criação do Ministério da Família.
 
-### 3. SEGURANÇA 
+### 3. SEGURANÇA
 
 O modelo nacional de segurança pública já não responde eficazmente às ameaças modernas e crescentes do crime organizado, gangues violentos, ou até do terrorismo. Para o PNR, é imperioso revalorizar a função da Polícia, actualmente sem meios técnicos e humanos para fazer face ao crime crescente. Este regime é um paraíso para os criminosos e um verdadeiro inferno para os polícias e para os portugueses indefesos. O sentimento geral é de que os polícias são desapoiados e os criminosos protegidos. É necessário inverter este paradigma e criar condições para que ninguém tenha medo de circular em certas zonas do país, impondo-se, pois, que seja enfrentada corajosamente a questão da insegurança e da criminalidade crescentes.
 
@@ -133,7 +133,7 @@ Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 * 3.2. Revalorizar as remunerações dos agentes da segurança e libertá-los das funções puramente administrativas;
 * 3.3. Reestruturar o actual modelo de segurança, criando uma Polícia moderna e eficaz e acabando com a actual duplicação de missões e de meios entre a PSP e a GNR;
 * 3.4. Fornecer os meios técnicos e humanos adequados à função e objectivos das Forças de Segurança;
-* 3.5. Atribuir subsídio de risco às Forças de Segurança pública e agentes de protecção civil; 
+* 3.5. Atribuir subsídio de risco às Forças de Segurança pública e agentes de protecção civil;
 * 3.6. Aumentar o actual número de efectivos e reforçar o policiamento de proximidade;
 * 3.7. Combater toda a espécie de criminalidade, contra pessoas e bens, venha ele de onde vier e seja de que tipo for: desde práticas de vandalismo, como os graffitis, até aos crimes de sangue, passando pelos crimes de colarinho branco, actuações de gangue, etc.;
 * 3.8. Acabar com a impunidade e desculpabilização dos criminosos;
@@ -198,7 +198,7 @@ Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 * 5.17. Investimento na ferrovia como forma eficaz de transporte e comunicação;
 * 5.18. Aposta na prospecção e exploração dos recursos naturais (lítio, gás natural, petróleo etc.).
 
-### 6. TRABALHO E POLÍTICA DE EMPREGO 
+### 6. TRABALHO E POLÍTICA DE EMPREGO
 
 O principal bem da nossa sociedade é o seu capital humano, as potencialidades de cada indivíduo socialmente considerado. A situação actual revela valores de desemprego bem acima dos oficiais, já que são ocultados e disfarçados – não contabilizando os que já não estão no fundo de desemprego, os que beneficiam de formações os que partiram para o exterior, etc. - pelos números e estatísticas; também a precariedade, exploração, salários baixos e trabalho sem perspectiva adensam esta nuvem que exige um Estado que se preocupe com este problema terrível que aflige largas centenas de milhares de portugueses, vítimas dos desvarios, do despesismo, da corrupção e das políticas económicas feitas para agradar a interesses de vários quadrantes, mas nunca ao povo português.
 
@@ -384,7 +384,7 @@ Portugal e a Europa têm vivido um perigoso espírito que considera o homem supe
 
 O tema dos incêndios florestais e o debate acerca do eucalipto tem também de merecer a nossa melhor atenção já que se trata de encontrar um justo equilíbrio entre as vantagens económicas da plantação de eucalipto e os perigos que este representa nos casos de incêndio. Segundo os resultados preliminares do Inventário Florestal Nacional, os eucaliptos tiveram um crescimento de 13% entre 1995 e 2010, representando actualmente a espécie dominante na floresta portuguesa, com 812 mil hectares plantados, o que corresponde a 26% do território florestal nacional. Estudos constantes dos Planos Regionais de Ordenamento Florestal, indicam que alterações climáticas tenderão a provocar alguma perda de produtividade em relação ao eucalipto, com excepção das sub-regiões Centro Litoral, Algarve e Entre Douro e Minho; em todas as outras sub-regiões o eucalipto tenderá a tornar-se menos rentável do que na actualidade. A actividade económica sustentada pelo eucalipto representa 9% do valor acrescentado bruto do sector industrial e 4% do PIB nacional, com um saldo comercial positivo de mais de 1.200 milhões de euros (dados de 2016, antes da entrada em vigor da nova legislação). Assim, na equação que visa a redução do eucaliptal, há também que respeitar os pequenos proprietários, para quem o eucalipto se apresenta como a única espécie florestal que permite um pequeno retorno financeiro e os médios e grandes proprietários, para os quais o eucalipto surge como um complemento à multifuncionalidade da floresta e da propriedade rural, cujo retorno financeiro permite, na grande maioria dos casos, fazer face aos desafios das restantes actividades económicas rurais.
 
-Também a exploração dos nosso recursos naturais, a independência energética e a busca de novas formas de energia, mais eficazes, baratas e não poluentes, deve ser uma preocupação constante, mas sem esquecer o bem-estar das pessoas, não embarcando em histerias “eco-tontas” e em “verdades científicas” contaminadas por agendas políticas. 
+Também a exploração dos nosso recursos naturais, a independência energética e a busca de novas formas de energia, mais eficazes, baratas e não poluentes, deve ser uma preocupação constante, mas sem esquecer o bem-estar das pessoas, não embarcando em histerias “eco-tontas” e em “verdades científicas” contaminadas por agendas políticas.
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
@@ -416,7 +416,7 @@ Connosco, estas questões não ficarão silenciadas, exigindo-se das instâncias
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
 * 13.1. Reestruturar, redimensionar e reequipar as Forças Armadas Portuguesas;
-* 13.2. Denunciar o “Pacto Global para a Migração”; 
+* 13.2. Denunciar o “Pacto Global para a Migração”;
 * 13.3. Denunciar os acordos de Schengen e restabelecer o controlo das fronteiras nacionais;
 * 13.4. Desenvolver todos esforços no sentido de se concretizar a aprovação da nossa plataforma continental que une o continente e os arquipélagos dos Açores e da Madeira, apostando no mar e nos seus recursos;
 * 13.5. Renegociar com a UE, firmemente, um rumo com tendência para o fim das quotas de produção nacional, em matéria de agricultura e pescas;
