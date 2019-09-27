@@ -18,7 +18,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | Movimento Alternativa Socialista | [Set. 2019](http://mas.org.pt/index.php/folha/1823-panfleto-mas-legislativas-2019.html) | Sofia C.  | FEITO |
 | Nós, Cidadãos! | [Set. 2019](https://noscidadaos.pt/programa-eleitoral-nc-legislativas-2019/) | Joana F. | FEITO |
 | ~~Partido Cidadania e Democracia Cristã~~ | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL  |  |  |
-| Partido Comunista dos Trabalhadores Portugueses |  |  |  |
+| Partido Comunista dos Trabalhadores Portugueses | [Set. 2019](https://www.lutapopularonline.org/index.php/legislativas2019/2587-manifesto-eleitoral) | Fabio C. | FEITO |
 | Partido Comunista Português | [Set. 2019](https://www.cdu.pt/2019/pdf/programa_eleitoral_pcp.pdf) | Diogo C.| FEITO |
 | Partido da Terra  | |  |  |
 | Partido Democrático Republicano | [Set. 2019](https://campanha-pdr.pt/programa-eleitoral/programa-completo/) | M. Marado | FEITO |
