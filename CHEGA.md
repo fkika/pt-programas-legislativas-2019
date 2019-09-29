@@ -1,5 +1,5 @@
 # **MATRIZ POLÍTICA DO CHEGA!**
-## **I • UM PARTIDO LIBERAL E CONSERVADOR**
+# **I • UM PARTIDO LIBERAL E CONSERVADOR**
 
 Excertos de um texto publicado no Observador e da co-autoria de José Miguel Pinto dos Santos e André Alvim:
 
@@ -31,7 +31,7 @@ Defende, assim, o CHEGA um conservadorismo de feição liberal, democrática e p
 Para que não restem dúvidas, as nossas teoria e prática políticas fundam-se nas reflexões de autores como Adam Smith e a sua “Ordem Espontânea”; Montesquieu, e a sua “Separação de Poderes”; John Locke, e os seus “Direitos Naturais”; Edmund Burke e Roger Scruton e as suas reflexões sobre a interconexão entre “Liberdade, Mercados Livres, Tradição e Autoridade”; ou, ainda, Ludwig von Mises com o seu Tratado sobre a “Acção Humana” ou Friedrich von Hayek e o seu “Lei, Legislação e Liberdade”.
 
 
-## **II • EM DIRECÇÃO À IV REPÚBLICA: RECENTRAR O REGIME, REFUNDAR O SISTEMA**
+# **II • EM DIRECÇÃO À IV REPÚBLICA: RECENTRAR O REGIME, REFUNDAR O SISTEMA**
 ## RECENTRAR O REGIME, REFUNDAR O SISTEMA
 Razões  históricas  por  demais  conhecidas  levaram  a  que  o  actual  regime  acabasse  por nascer enviesado à Esquerda. Os partidos fundadores do regime foram, apenas, aqueles a quem o _establishment_ – de esquerda – convidou. Só puderam concorrer às eleições para a Assembleia Constituinte de 1975 os partidos que assinaram o Pacto MFA  partidos.  Pacto  no  qual  se  exigia  aos  partidos  uma  óbvia  aceitação  de  toda  a  mitologia marxista ou marxizante. E, assim, a Constituição votada é bem a prova dos limites impostos no _dealbar_ do regime, limites esses que ainda hoje tolhem qualquer veleidade minimamente reformista de qualquer governo. Estas veleidades quebram-se contra a estrutura petrificada de uma Constituição que cristalizou um tempo e um modo de ser que pertencem a outros mundos e a outras eras.
 
@@ -54,7 +54,7 @@ Caberá, assim, ao CHEGA, e como primeira missão, bater-se por uma recentragem 
 
 As  bases  políticas,  reunindo,  tal  como  se  pretende,  as  linhas  mestras  que  deverão  orientar  as  políticas  concretas  propostas  pelo  CHEGA  deverão  tratar,  apenas,  das  medidas gerais que permitirão essa recentragem. Na sua generalidade implicam, mais do que uma revisão da Constituição em pontos cruciais, uma nova Constituição votada por uma Assembleia Constituinte est, sim, livremente eleita e reunida. Mas nenhum partido que pretenda recentrar o regime e refundar o sistema poderá prescindir dessa luta. A actual Constituição não passa da magna carta de um regime desvirtuado, ou do _road map_ do sistema, um _road map_ todo ele desenhado para obrigar o viandante a permanecer no mesmo sítio. Finalmente, recentrar o Regime e refundar o Sistema, pressupõe a passagem da actual III República para uma IV República. Um núcleo de bases políticas que pretenda atingir estes objectivos será, necessariamente, um documento politicamente incorrecto. Este, é-o seguramente.
 
-## **III • ONDE ESTAMOS**
+# **III • ONDE ESTAMOS**
 
 Na Teoria Política, o Estado surgiria de um contrato social implícito, em que tudo se passaria como se os cidadãos chegassem entre si a um acordo de todos renunciarem ao uso da força, colocando o monopólio dessa força numa terceira entidade por eles escolhida. Essa terceira entidade, idealmente independente, ajuizaria, nos conflitos, da razão de cada um, decidiria em conformidade e teria a força de impor as consequências do juizo a que chegara.
 
@@ -82,7 +82,7 @@ Porque, como diz o povo, “quem parte e reparte e não fica com a melhor parte 
 
 Uma certeza queremos deixar desde já: Com o CHEGA, a extorsão vai acabar. E muito rapidamente.
 
-## **IV • BASES POLÍTICAS**
+# **IV • BASES POLÍTICAS**
 #### **NÃO BASTA AO CHEGA DIZER QUE VAI DEMOLIR A III REPÚBLICA.**
  **PORQUE, DEMOLIDA AQUELA, HÀ QUE CONSTRUIR A IV REPÚBLICA.**
 
@@ -102,7 +102,7 @@ Manda o bom senso que seja na sua raiz que os problemas tenham de ser resolvidos
 
 Confunde-se muito radicalismo com extremismo. Mas são termos que correspondem a comportamentos profundamente diversos: Um radical é alguém que entende que os problemas apenas se resolvem, de forma eficaz, detectando qual a raiz desses problemas e agindo sobre ela. Um extremista é um exaltado capaz de destruir o mundo de todos (real) para salvar o seu mundo (imaginário). E eis porque razão resolvemos tentar essa aparente clarificação do óbvio: Para evitar ir sucessivamente empurrando os problemas para a frente. Para que se saiba quem pensa o quê. E para colocar o CHEGA como um partido verdadeiramente novo.
 
-## **BASE I • DA DIFERENÇA**
+# **BASE I • DA DIFERENÇA**
 #### **A DIFERENÇA COMO CONDIÇÃO INDISPENSÁVEL DA LIBERDADE, LOGO COMO PEDRA ANGULAR DO EDIFÍCIO POLÍTICO A CONSTRUIR**
 
 Temos o direito à Diferença como sendo a pedra angular do edifício político que pretendemos construir, pois que é ele a condição básica para que possa florescer o mais fundamental de todos os direitos, o direito à liberdade.
@@ -229,7 +229,7 @@ O respeito pela Diferença é condição essencial ao exercício da Liberdade. E
 
 É esta a razão de colocarmos o respeito pela Diferença como a pedra angular do edifício politico que pretendemos construir. Porque sem respeito pela Diferença não há liberdade, e sem liberdade o Homem perde a sua Humanidade básica, ou seja, a sua primordial razão de existir.
 
-## **BASE II • DA PESSOA**
+# **BASE II • DA PESSOA**
 #### **DOS VALORES QUE FUNDAM A ACÇÃO POLÍTICA DO HOMEM**
 Os princípios fundadores do homem que criou a civilização ocidental colocam-se como valores centrais na acção política, sob pena de esta não passar do formato hoje dominante, infelizmente não apenas entre nós. E se estes valores devem nortear os actores políticos e a acção política, eles deverão colocar-se igualmente, como eixos estruturantes do paradigma do homem, que uma política de Educação, por exemplo, deverá tender a revelar. Serão estes os princípios relevantes a nortear a acção política concreta:
 
@@ -255,7 +255,7 @@ Os princípios fundadores do homem que criou a civilização ocidental colocam-s
 
 9. Chamar de novo a um papel de primeiro plano, o Direito Natural. Reequilibrar Direito Natural e Direito Positivo atribuindo um maior papel ao Direito Natural como limite ao Direito Positivo. Explicitando: o CHEGA assume que existem algumas liberdades básicas como liberdade de pensamento e expressão, liberdade de consciência e religiosa, liberdade económica para produzir, trocar, acumular e consumir, liberdade para constituir família & liberdade de associação. estas liberdades são direitos, não concedidos pelo Estado ou benevolência da comunidade, mas inerentes a todo o ser humano e por isso também eles inalienáveis, tal como a própria vida. Como condição essencial para o gozo de todas estas, postula um direito inalienável à vida, o Direito Natural.
 
-## **BASE III • DO ESTADO**
+# **BASE III • DO ESTADO**
 #### **DA RAZÃO, DAS FUNÇÕES, DOS LIMITES E DOS CUSTOS DO ESTADO**
 ##### III A - DA RAZÃO DO ESTADO
  São princípios ordenadores da Razão do Estado
@@ -410,7 +410,7 @@ p)  Incentivar os contratos individuais de trabalho em serviços públicos, com 
 
 q) Aumentar a fiscalização das baixas médicas por doença, penalizando os infractores em caso de fraude (medico/dentista/ doentes). Reavaliar bienalmente por novo júri, as reformas por invalidez emitidas e se encontrar capacidade para o trabalho, poderem ser rectificadas.
 
-## **2. GESTÃO**
+### **2. GESTÃO**
 **2.1. RECEITAS: POLÍTICA FISCAL**
 
 Desde logo, os princípios básicos orientadores da política fiscal do CHEGA
@@ -544,7 +544,7 @@ m) Criar, para maiores de 25 anos, no âmbito do ensino superior, licenciaturas 
 
 n) Introduzir sistemas de bolsas de estudo atribuídas ao mérito, para todas as fases da vida académica de alunos economicamente carenciados.
 
-### **2 - POLÍTICA EXTERNA**
+## **2 - POLÍTICA EXTERNA**
 **2. I - PRINCÍPIOS ORIENTADORES**
 
 O CHEGA assume como seus princípios de base no campo da política externa:
@@ -667,7 +667,7 @@ Políticas facultativas são aquelas em que os Estados, no legítimo exercício 
 
 A opção de integrar uma política comum deve assentar na aplicação efectiva do princípio de subsidiariedade que refere que, em termos gerais, qualquer política facultativa só deverá ser executada ao nível supranacional, passando a ser comum, se trouxer comprovadamente vantagens relativamente à sua aplicação a nível nacional.
 
-### **3- JUSTIÇA, SEGURANÇA E MIGRAÇÕES**
+## **3- JUSTIÇA, SEGURANÇA E MIGRAÇÕES**
 
 São três realidades que, hoje em dia, se apresentam como quase indissociáveis pelo que serão as três tratadas sob um mesmo capítulo. Uma política de Justiça e de Segurança dissociadas uma da outra, e, mesmo, o que é pior, de costas voltadas uma para a outra não são hoje em dia concebíveis frente aos riscos acrescidos de uma insegurança crónica. E sendo que a política de portas abertas à recente vaga avassaladora de emigração ilegal é um dos mais evidentes factores de risco para a desestabilização das condições essenciais de estabilidade dos países europeus, a preocupação primordial quer com a segurança dos cidadãos quer com o funcionamento do sistema de Justiça é um dos pontos de honra do Chega. Assim sendo, o Chega assume-se, para usar a terminologia dos seus adversários, sem quaisquer complexos, como um partido “securitário”. Daqui deriva como um princípio geral em termos das nossas políticas de Justiça e de Segurança que para esta primordial função do Estado não poderão faltar, nunca, os necessários recursos no Orçamento de Estado.
 
@@ -828,7 +828,7 @@ z) Os refugiados não poderão obter nacionalidade portuguesa nem residência, m
 
 O alto risco sístimo a que o país se encontra sujeito com particular relevo para a sua orla atlântica aconselham o máximo cuidado no que respeita a políticas e protocolos de prevenção. Assim sendo, e sem prejuízos de otras medidas que atempadamente proporemos sugerimos, desde jáa) A criação do Instituto Português de Sismologia que ,com plena autonomia administrativa e financeira, aborde o estudo, prevenção e reacção ao fenómeno Sismológico.b) Alerta costeiro para evacuações em caso de tsunamis. Embora não se possam prever os grandes sismos, os estudos feitos nos sedimentos mostram uma periodicidade com intervalos de 200 a 400 anos. O terramoto de 1755 provocou o último grande tsunami, o que nos deixa dentro da janela temporal. Vários especialistas, quando do tsunami do Japão, alertaram para o perigo de não haver alertas de tsunami na zona costeira, com especial destaque para o acentuado perigo de invasão do mar na zona ribeirinha de Alcântara, Cruz Quebrada e Oeiras.
 
-### **4- DEFESA**
+## **4- DEFESA**
 O CHEGA defende uma política de defesa consistente com a política externa, sendo claro que uma política de defesa autónoma perdeu, para um país com a dimensão de Portugal e no mundo de hoje, qualquer sentido. Assim sendo, as forças armadas portuguesas haverão de ter conta a estrutura multipolar em que preconizamos assente a política externa portuguesa. É em função dessa estrutura tmultipolar que deverão ser definidos os objectivos estratégicos da nossa política de Defesa e é à luz desses objectivos estratégicos que a profunda reorganização das nossas forças armadas terá de ser levada a cabo. Assim e desde logo, afirma-se, de um ponto de vista genérico
 
 A indispensabilidade da existência de Forças Armadas nacionais. Não há política externa sem soberania e não há soberania sem forças armadas minimamente credíveis.
@@ -845,12 +845,12 @@ Uma presença activa de Portugal na NATO. Defende-se, desde logo, o comprometime
 
 A  constituição  de  um  pilar  de  cooperação  em  matéria  de  segurança  e  defesa,  em  moldes a estudar, no âmbito da CPLP.
 
-### **5 - COMUNIDADES PORTUGUESAS**
+## **5 - COMUNIDADES PORTUGUESAS**
 Nós não somos 10 milhões de portugueses. Nós somos 15 milhões. 10 milhões de um forma ou de outra conformados com os estreitos limites que a goegrafia nos marcou e cinco milhões que se não conformaram, não desistiram, e estão hoje espalhados pela Europa e pelo Mundo. E que se sentem estrangeiros nos países onde vivem mas se sentem, também, estrangeiros em Portugal. O CHEGA decidiu lutar para que os emigrantes portugueses recuperem a sua Pátria e o reconhecimento e a gratidão que essa Pátria lhes deve. No tempo em que não havia Europa e os fundos da Europa, eles foram a nossa Europa; e no dia em que a Europa nos faltar, eles não nos faltarão se nós lhes não falharmos agora.
 
 Assim sendo, o CHEGA compromete-se a, sendo Governo, criar o Ministério das Comunidades Portuguesas, que terá como objectivo tomar as medidas necessárias, mantê-las e aperfeiçoá-las de forma a que os portugueses espalhados pelo mundo se voltem a sentir portugueses.
 
-### **6 - PATRIMÓNIO CULTURAL, AMBIENTE E TURISMO**
+## **6 - PATRIMÓNIO CULTURAL, AMBIENTE E TURISMO**
 
 Considera o CHEGA que é função soberana do Estado a preservação do Património Cultural, material e imaterial, pois que é um bem da Nação, faz parte da sua Hitória e, como tal, é um bem que a todos dz respeito.  
 
@@ -872,7 +872,7 @@ Este  património  cultural  engloba  uma  grande  variedade  de  bens,  que  v�
 14. Protecção de todas as actividades culturais de tradição erudita ou popular
 15. Proibir as práticas de excisão e os casamentos de, e entre, menores
 
-### **AMBIENTE**
+## **AMBIENTE**
 
 A preservação do ambiente é, para o CHEGA, uma funçãoo soberana do Estado. Trata-se de validar e fazer cumprir um contrato implícito entre gerações. A defesa equilibrada e ponderada do ambiente é uma causa nacional, logo necessariamente abraçada pelos conservadores liberais que somos. Nestes sentido toda a actividade económica será regulada tendo as questões ambientais em linha de conta. Como vector essencial de uma política de Ambiente temos o da preservação e revitalização do Mundo Rural.
 
