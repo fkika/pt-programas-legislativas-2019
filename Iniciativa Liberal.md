@@ -421,7 +421,7 @@ Como tal, este modelo permite uma forte redução de custos energéticos para os
 
 Sim. Uma medida importante diz respeito aos custos de ATR. Ao vender excedentes de produção descentralizada à rede deve ser garantido que estes serão remunerados a preço de mercado, mas com o valor mínimo de ATR (caso a energia seja direcionada para o cliente mais próximo, apenas deverá pagar pelo trecho de rede usado e não pela utilização total da rede).
 
-Para além disso, também será necessário encontrar uma solução para os desafios legais que a utilização de software, particularmente o que estiver relacionado com a permissão de venda P2P (exemplo, sistemas baseados em BlockChaineSmartContracts), irá necessariamente trazer.
+Para além disso, também será necessário encontrar uma solução para os desafios legais que a utilização de software, particularmente o que estiver relacionado com a permissão de venda P2P (exemplo, sistemas baseados em BlockChain e SmartContracts), irá necessariamente trazer.
 
 **A massificação destas instalações não provocará o caos na gestão da rede elétrica, sem se saber em cada instante quem está a produzir e injetar na rede?**
 
