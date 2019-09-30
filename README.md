@@ -20,7 +20,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | ~~Partido Cidadania e Democracia Cristã~~ | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL  |  |  |
 | Partido Comunista dos Trabalhadores Portugueses | [Set. 2019](https://www.lutapopularonline.org/index.php/legislativas2019/2587-manifesto-eleitoral) | Fabio C. | FEITO |
 | Partido Comunista Português | [Set. 2019](https://www.cdu.pt/2019/pdf/programa_eleitoral_pcp.pdf) | Diogo C.| FEITO |
-| Partido da Terra  | |  |  |
+| Partido da Terra  | [Link](https://issuu.com/partidodaterra/docs/programaversaofinal_final2019_versaojif25set__1_) | Tiago P. | FEITO |
 | Partido Democrático Republicano | [Set. 2019](https://campanha-pdr.pt/programa-eleitoral/programa-completo/) | M. Marado | FEITO |
 | Partido Ecologista "Os Verdes" | [Link](http://www.osverdes.pt/media/Legislativas_2019/12_compromissos_Legislativas2019_PEV.pdf)| Tiago S. | FEITO   |
 | ~~Partido Liberal Democrata~~  | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL |  | |
